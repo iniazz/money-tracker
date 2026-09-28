@@ -4,11 +4,11 @@ Mint is a local-first personal finance tracker built with Vue 3 and TypeScript. 
 
 ## Screenshot
 
-_Screenshot coming soon._
+![Mint dashboard](docs/screenshots/mint-dashboard.png)
 
 ## Live demo
 
-Not publicly deployed yet. A live demo URL will be added here when deployment is available.
+[Open the live application](https://iniazz.github.io/money-tracker/)
 
 ## Current features
 
@@ -127,7 +127,7 @@ Transactions and the selected currency are saved in the browser's `localStorage`
 - Add recurring transactions, budgets, and category-level spending insights.
 - Add optional backend sync and authentication while preserving the local-first experience.
 - Add broader component and accessibility tests, including responsive interaction coverage.
-- Deploy a public demo and include a product screenshot in this README.
+- Continue improving the public demo and keep the README screenshot current.
 
 ## Learning and engineering focus
 
